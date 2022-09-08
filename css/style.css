@@ -1,0 +1,35 @@
+
+h1{
+    background-color: rgb(1, 1, 151);
+    color: white;   
+}
+
+h2{
+    background-color: rgb(255, 153, 0);
+    color: white;
+}
+
+h3{
+    color: rgb(1, 1, 151);
+}
+
+#botonera img{
+    width: 125px;
+}
+
+/*Fondos */
+
+.bg-fondo{
+    background-color: rgba(255, 115, 0, 0.911);
+}
+
+.bg-boton{
+    background-color: rgb(250, 142, 0);
+    color: white;
+}
+
+.bg-botonofertas{
+    background-color: rgb(4, 40, 245);
+    color: white;
+}
+
